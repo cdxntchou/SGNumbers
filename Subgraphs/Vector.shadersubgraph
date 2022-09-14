@@ -18,7 +18,11 @@
     ],
     "m_Keywords": [],
     "m_Dropdowns": [],
-    "m_CategoryData": [],
+    "m_CategoryData": [
+        {
+            "m_Id": "4d7e7a9c541149438f37a7ff3252111e"
+        }
+    ],
     "m_Nodes": [
         {
             "m_Id": "6edaf672e3174f379ee17bcfa846ae60"
@@ -524,7 +528,8 @@
         "serializedMesh": {
             "m_SerializedMesh": "{\"mesh\":{\"fileID\":10202,\"guid\":\"0000000000000000e000000000000000\",\"type\":0}}",
             "m_Guid": ""
-        }
+        },
+        "preventRotation": false
     },
     "m_Path": "Sub Graphs",
     "m_GraphPrecision": 1,
@@ -1334,6 +1339,27 @@
         "z": 0.0,
         "w": 0.0
     }
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.CategoryData",
+    "m_ObjectId": "4d7e7a9c541149438f37a7ff3252111e",
+    "m_Name": "",
+    "m_ChildObjectList": [
+        {
+            "m_Id": "e428bfc1923a42ba8fe3baa17e2e427e"
+        },
+        {
+            "m_Id": "ab7d751b89cf4ecf85da1b2d51513eff"
+        },
+        {
+            "m_Id": "b8371f42db8348abba7207732b2f218c"
+        },
+        {
+            "m_Id": "5b81a318e4a1459f90e4801fa1429322"
+        }
+    ]
 }
 
 {
